@@ -1,0 +1,20 @@
+1577696387661|19|statement|connection 0|/* ping */ SELECT 1|
+1577698540480|19|statement|connection 0|/* ping */ SELECT 1|
+1577720556556|17|statement|connection 0|/* ping */ SELECT 1|
+1577720658841|46|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577721012869|1|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577721109189|1|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577721114453|0|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577721125828|0|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577721133416|0|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577721263813|0|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577721303476|0|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577721409272|1|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577759001582|19|statement|connection 0|/* ping */ SELECT 1|
+1577759025087|0|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577759025101|0|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577759127838|1|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577759251718|18|statement|connection 0|/* ping */ SELECT 1|
+1577883077426|20|statement|connection 0|/* ping */ SELECT 1|
+1577883101809|18|statement|connection 0|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8
+1577891643487|1|statement|connection 40|select * from web_menu where menuType=? order by updateTime limit 8|select * from web_menu where menuType='1' order by updateTime limit 8

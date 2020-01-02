@@ -1,0 +1,23 @@
+server:
+  port: 8888
+spring:
+  datasource:
+    driver-class-name: com.p6spy.engine.spy.P6SpyDriver
+    url: jdbc:p6spy:mysql://localhost:3306/elm?useSSL=false&useUnicode=true&characterEncoding=utf8&serverTimezone=GMT
+    username: yuan
+    password: yuan123!@#
+    hikari:
+      maximum-pool-size: 30
+      minimum-idle: 10
+  mvc:
+    static-path-pattern: /static/**
+    view:
+      prefix: /pages/
+      suffix: .jsp
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.java.pojo
+
+logging:
+  level:
+    com.java.mapper: debug
