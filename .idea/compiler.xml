@@ -6,11 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eb-pojo" />
-        <module name="eb-web" />
         <module name="eb-commons" />
+        <module name="eb-pojo" />
+        <module name="eb-eureka2" />
+        <module name="eb-eureka1" />
+        <module name="eb-web" />
         <module name="eb-admin" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eb-admin" options="-parameters" />
+      <module name="eb-commons" options="-parameters" />
+      <module name="eb-eureka1" options="-parameters" />
+      <module name="eb-eureka2" options="-parameters" />
+      <module name="eb-pojo" options="-parameters" />
+      <module name="eb-web" options="-parameters" />
+    </option>
   </component>
 </project>

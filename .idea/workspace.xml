@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e46637e-6418-4ff3-821e-46fdff9a9a3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/eb-eureka1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eb-eureka1/src/main/java/com/java/controller/Eureka1StartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eb-eureka1/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eb-eureka2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eb-eureka2/src/main/java/com/java/controller/Eureka2StartApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eb-eureka2/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/spy.log" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/spy.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/src/main/java/com/java/controller/AdminStartApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/src/main/java/com/java/controller/AdminStartApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/classes/com/java/controller/AdminStartApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/classes/com/java/controller/AdminStartApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/classes/com/java/controller/AdminStartApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/classes/com/java/controller/AdminStartApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/classes/com/java/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/classes/com/java/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/classes/com/java/controller/WebMenuController.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/classes/com/java/controller/WebMenuController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/classes/com/java/mapper/LoginMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/classes/com/java/mapper/LoginMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/classes/com/java/mapper/WebMenuMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/classes/com/java/mapper/WebMenuMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/classes/com/java/service/LoginService.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/classes/com/java/service/LoginService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/classes/com/java/service/WebMenuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/classes/com/java/service/WebMenuService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/classes/com/java/service/impl/LoginServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/classes/com/java/service/impl/LoginServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/classes/com/java/service/impl/WebMenuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/classes/com/java/service/impl/WebMenuServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/test-classes/MatrixTimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/test-classes/MatrixTimes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/test-classes/MatrixTrans.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/test-classes/MatrixTrans.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/test-classes/MongoDbTestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/test-classes/MongoDbTestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/test-classes/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/test-classes/TestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/test-classes/TestExtendsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/test-classes/TestExtendsDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/test-classes/TestInnerClassDemo$InnerA.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/test-classes/TestInnerClassDemo$InnerA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-admin/target/test-classes/TestInnerClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-admin/target/test-classes/TestInnerClassDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eb-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-web/src/main/java/com/java/controller/WebStartApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eb-web/src/main/java/com/java/controller/WebStartApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eb-web/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-web/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eb-web/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-web/target/classes/com/java/controller/WebStartApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-web/target/classes/com/java/controller/WebStartApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-web/target/classes/com/java/controller/WebStartApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eb-web/target/classes/com/java/controller/WebStartApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-web/target/classes/com/java/mapper/HomeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-web/target/classes/com/java/mapper/HomeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-web/target/classes/com/java/service/HomeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-web/target/classes/com/java/service/HomeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb-web/target/classes/com/java/service/impl/HomeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/eb-web/target/classes/com/java/service/impl/HomeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spy.log" beforeDir="false" afterPath="$PROJECT_DIR$/spy.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - elm@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - elm@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - elm@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="elm: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - elm@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="elm: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="web_menu: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="easybuy" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Work\easybuy\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Work\maven\apache-maven-respository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Work\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VH9i0uHf2EumoKUMXFunWzpQz9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eb-eureka2/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.java.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.java.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\easybuy\eb-eureka2\src\main\resources" />
+      <recent name="D:\Work\easybuy\eb-eureka1\src\main\resources" />
+      <recent name="D:\Work\easybuy\eb-web\src\main\resources\static\js" />
+      <recent name="D:\Work\easybuy\eb-web\src\main\resources\static\images" />
+      <recent name="D:\Work\easybuy\eb-web\src\main\resources\static\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebStartApplication">
+    <configuration name="MongoDbTestDemo.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eb-admin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MongoDbTestDemo" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoDbTestDemo.getInCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eb-admin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MongoDbTestDemo" />
+      <option name="METHOD_NAME" value="getInCondition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoDbTestDemo.getInMultiCondions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eb-admin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MongoDbTestDemo" />
+      <option name="METHOD_NAME" value="getInMultiCondions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoDbTestDemo.insertMulti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eb-admin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MongoDbTestDemo" />
+      <option name="METHOD_NAME" value="insertMulti" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eb-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.controller.AdminStartApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka1StartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eb-eureka1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.controller.Eureka1StartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka2StartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eb-eureka2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.controller.Eureka2StartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebStartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eb-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.java.controller.WebStartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MongoDbTestDemo.insertMulti" />
+      <item itemvalue="JUnit.MongoDbTestDemo.get" />
+      <item itemvalue="JUnit.MongoDbTestDemo.getInCondition" />
+      <item itemvalue="JUnit.MongoDbTestDemo.getInMultiCondions" />
+      <item itemvalue="Spring Boot.WebStartApplication" />
+      <item itemvalue="Spring Boot.AdminStartApplication" />
+      <item itemvalue="Spring Boot.Eureka2StartApplication" />
+      <item itemvalue="Spring Boot.Eureka1StartApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Eureka1StartApplication" />
+        <item itemvalue="JUnit.MongoDbTestDemo.getInMultiCondions" />
+        <item itemvalue="JUnit.MongoDbTestDemo.getInCondition" />
+        <item itemvalue="JUnit.MongoDbTestDemo.get" />
+        <item itemvalue="JUnit.MongoDbTestDemo.insertMulti" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e46637e-6418-4ff3-821e-46fdff9a9a3e" name="Default Changelist" comment="" />
+      <created>1576899276568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576899276568</updated>
+      <workItem from="1576899277699" duration="4570000" />
+      <workItem from="1576978799727" duration="2225000" />
+      <workItem from="1576981110072" duration="5662000" />
+      <workItem from="1577062951033" duration="13155000" />
+      <workItem from="1577160100926" duration="8461000" />
+      <workItem from="1577236712166" duration="7615000" />
+      <workItem from="1577329589510" duration="10357000" />
+      <workItem from="1577502582566" duration="8923000" />
+      <workItem from="1577584079901" duration="7575000" />
+      <workItem from="1577669733721" duration="20236000" />
+      <workItem from="1577840667748" duration="11059000" />
+      <workItem from="1577927820471" duration="7785000" />
+      <workItem from="1577958447634" duration="23000" />
+      <workItem from="1578185676940" duration="2337000" />
+      <workItem from="1578188135605" duration="4738000" />
+      <workItem from="1578192895909" duration="2188000" />
+      <workItem from="1578272066468" duration="1187000" />
+      <workItem from="1578445877775" duration="192000" />
+    </task>
+    <task id="LOCAL-00001" summary="aNetShopDemo">
+      <created>1577936858716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577936858716</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="aNetShopDemo" />
+    <option name="LAST_COMMIT_MESSAGE" value="aNetShopDemo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1577720034236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1577720034236" />
+    <state x="653" y="176" key="#MD5Too" timestamp="1577064845312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="176" key="#MD5Too/0.0.1920.1040@0.0.1920.1040" timestamp="1577064845312" />
+    <state x="552" y="178" key="#Notifications" timestamp="1577937236003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1577937236003" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1577168595479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577168595479" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577939004213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577939004213" />
+    <state x="1237" y="573" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576901064280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1237" y="573" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576901064280" />
+    <state x="704" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1578192219877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578192219877" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1577673049017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577673049017" />
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577064827657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577064827657" />
+    <state x="678" y="484" width="486" height="187" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1577695631637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="484" width="486" height="187" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1920.1040@0.0.1920.1040" timestamp="1577695631637" />
+    <state x="663" y="484" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1577695566375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="663" y="484" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577695566375" />
+    <state x="560" y="113" key="CommitChangelistDialog2" timestamp="1577936848254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577936848254" />
+    <state x="415" y="242" key="FileChooserDialogImpl" timestamp="1578191652517">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="415" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578191652517" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1578195084549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578195084549" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1578195084549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578195084549" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1578195084549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578195084549" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1578195084549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578195084549" />
+    <state width="1877" height="274" key="GridCell.Tab.1.bottom" timestamp="1578195084550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578195084550" />
+    <state width="1877" height="274" key="GridCell.Tab.1.center" timestamp="1578195084550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578195084550" />
+    <state width="1877" height="274" key="GridCell.Tab.1.left" timestamp="1578195084550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578195084550" />
+    <state width="1877" height="274" key="GridCell.Tab.1.right" timestamp="1578195084550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578195084550" />
+    <state x="169" y="168" key="SettingsEditor" timestamp="1578192248577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="169" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578192248577" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577937468898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577937468898" />
+    <state x="714" y="274" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1577721185582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="274" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1920.1040@0.0.1920.1040" timestamp="1577721185582" />
+    <state x="779" y="384" key="git4idea.rebase.GitRebaseDialog" timestamp="1577937063966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="384" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577937063966" />
+    <state x="334" y="214" key="new project wizard" timestamp="1578188292948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578188292948" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1577589826941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577589826941" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578186191799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578186191799" />
+  </component>
+</project>

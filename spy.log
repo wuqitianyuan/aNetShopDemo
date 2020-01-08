@@ -1,1 +1,3 @@
 1577696318736|18|statement|connection 0|/* ping */ SELECT 1|
+1577938961426|17|statement|connection 0|/* ping */ SELECT 1|
+1578194589362|18|statement|connection 0|/* ping */ SELECT 1|

@@ -12,14 +12,23 @@
         <module>eb-pojo</module>
         <module>eb-admin</module>
         <module>eb-web</module>
+        <module>eb-eureka1</module>
+        <module>eb-eureka2</module>
     </modules>
     <packaging>pom</packaging>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.2.2.RELEASE</version>
+        <relativePath/>
+    </parent>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <spring-cloud.version>Finchley.SR4</spring-cloud.version>
+        <spring-cloud.version>Hoxton.SR1</spring-cloud.version>
         <spring-boot.starter.web.version>2.2.2.RELEASE</spring-boot.starter.web.version>
         <spring-boot.starter.actuator.version>2.2.2.RELEASE</spring-boot.starter.actuator.version>
         <spring-boot.devtools.version>2.2.2.RELEASE</spring-boot.devtools.version>
