@@ -29,7 +29,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <spring-cloud.version>Hoxton.SR1</spring-cloud.version>
-        <spring-boot.starter.web.version>2.2.2.RELEASE</spring-boot.starter.web.version>
+        <spring-boot.starter.web.version>2.5.12</spring-boot.starter.web.version>
         <spring-boot.starter.actuator.version>2.2.2.RELEASE</spring-boot.starter.actuator.version>
         <spring-boot.devtools.version>2.2.2.RELEASE</spring-boot.devtools.version>
         <spring.core.version>5.2.2.RELEASE</spring.core.version>
